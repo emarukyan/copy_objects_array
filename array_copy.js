@@ -1,5 +1,5 @@
 // Proof that for copying Arrays, JSON.parse(JSON.stringify) is not a good choice
-// for a plain array with numbers, there si no difference, but for array of objects there is!
+// for a plain array with numbers, there is no difference, but for array of objects there is!
 
 // just a little bit bigger unique object
 var getUniqueJson = function (i) {
